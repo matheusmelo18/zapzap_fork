@@ -22,6 +22,8 @@ repetíveis pertencem aqui.
 
 7. [Crashes do QtWebEngine](webengine-crash-investigation.md): atribuição por
    sessão, instrumentação opt-in, A/B e captura de backtrace nativo.
+8. [Relatório de melhorias](project_improvement_review.md): auditoria e
+   recomendações de código, arquitetura, testes e UI/UX.
 
 Inventário de documentos técnicos:
 
@@ -32,6 +34,7 @@ Inventário de documentos técnicos:
 - `maintenance.md`
 - `memory-benchmark.md`
 - `performance-experimental.md`
+- `project_improvement_review.md`
 - `reporting.md`
 - `testing.md`
 - `webengine-crash-investigation.md`
