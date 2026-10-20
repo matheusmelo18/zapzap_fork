@@ -13,6 +13,11 @@ releases and the AppStream metadata.
 
 ## [7.5.2] - In development
 
+### Added
+
+- Add comprehensive project improvement review document (`docs/project_improvement_review.md`)
+  outlining architectural, code quality, UI/UX, translation, performance, and CI/CD recommendations.
+
 ### Fixed
 
 - Fix voice and video calls never connecting by removing the legacy WebRTC

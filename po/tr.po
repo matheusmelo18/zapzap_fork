@@ -3018,9 +3018,8 @@ msgstr ""
 "Genel proxy ayarları kaldırılacak ve varsayılan değerler geri yüklenecek."
 
 #: zapzap/features/settings/pages/network_privacy/controller.py:243
-#, fuzzy
 msgid "Strict proxy isolation will not be changed."
-msgstr "Katı proxy yalıtımı ve WebRTC koruması değiştirilmeyecek."
+msgstr "Katı proxy yalıtımı değiştirilmeyecek."
 
 #: zapzap/features/settings/pages/network_privacy/view.py:36
 #: zapzap/features/settings/pages/network_privacy/view.py:40
